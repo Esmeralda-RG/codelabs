@@ -3,6 +3,8 @@
   - Carpeta: ***hola-mundo***
 - CODELAB: SPRING BOOT II: Servicio REST en Spring Boot:
   - Carpeta: ***demo***
+- CODELAB: CLEAN ARCHITECTURE EN MICROSERVICIOS SPRING BOOT: Clean Architecture en microservicios Spring Boot
+  - Carpeta: ***microservicio***
 - CODELAB: COMUNICACION SINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Sincrónica y Asincrónica con Spring Boot:
   - Carpeta: ***sincronica***
 - CODELAB: COMUNICACION ASINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Asincrónica con Spring Boot y RabbitMQ (usando JSON):
