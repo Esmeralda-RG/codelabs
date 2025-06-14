@@ -1,7 +1,13 @@
 # Codelabs
-- CODELAB: SPRING BOOT I: Hola Mundo en Spring Boot: Carpeta: ***hola-mundo***
-- CODELAB: SPRING BOOT II: Servicio REST en Spring Boot: Carpeta: ***demo***
-- CODELAB: COMUNICACION SINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Sincrónica y Asincrónica con Spring Boot: Carpeta: ***sincronica***
-- CODELAB: COMUNICACION ASINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Asincrónica con Spring Boot y RabbitMQ (usando JSON): Carpeta: ***rabbitMQ***
-- CODELAB: CI/CD CON GITHUB ACTIONS: Implementación de un pipeline CI/CD para Spring Boot usando GitHub Actions: [repository](https://github.com/Esmeralda-RG/cliente-service)
-- CODELAB: VIRTUAL THREADS: Virtual Threads en Spring Boot: Carpeta: ***virtualthreads-demo***
+- CODELAB: SPRING BOOT I: Hola Mundo en Spring Boot:
+  - Carpeta: ***hola-mundo***
+- CODELAB: SPRING BOOT II: Servicio REST en Spring Boot:
+  - Carpeta: ***demo***
+- CODELAB: COMUNICACION SINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Sincrónica y Asincrónica con Spring Boot:
+  - Carpeta: ***sincronica***
+- CODELAB: COMUNICACION ASINCRONICA ENTRE MICROSERVICIOS: Comunicación entre microservicios: Asincrónica con Spring Boot y RabbitMQ (usando JSON):
+  - Carpeta: ***rabbitMQ***
+- CODELAB: CI/CD CON GITHUB ACTIONS: Implementación de un pipeline CI/CD para Spring Boot usando GitHub Actions:
+  - [repository](https://github.com/Esmeralda-RG/cliente-service)
+- CODELAB: VIRTUAL THREADS: Virtual Threads en Spring Boot:
+  - Carpeta: ***virtualthreads-demo***
