@@ -1,0 +1,24 @@
+{
+    "properties": [
+        {
+            "name": "eureka.client.lease-expiration-duration-in-seconds",
+            "type": "java.lang.String",
+            "description": "A description for 'eureka.client.lease-expiration-duration-in-seconds'"
+        },
+        {
+            "name": "eureka.client.lease-renewal-interval-seconds",
+            "type": "java.lang.String",
+            "description": "A description for 'eureka.client.lease-renewal-interval-seconds'"
+        },
+        {
+            "name": "eureka.client.renewal-percent-threshold",
+            "type": "java.lang.String",
+            "description": "A description for 'eureka.client.renewal-percent-threshold'"
+        },
+        {
+            "name": "eureka.client.enable-self-preservation",
+            "type": "java.lang.String",
+            "description": "A description for 'eureka.client.enable-self-preservation'"
+        }
+    ]
+}
