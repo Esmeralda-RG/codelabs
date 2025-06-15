@@ -15,3 +15,5 @@
   - Carpeta: ***virtualthreads-demo***
 - CODELAB: KUBERNETES NIVEL BASICO - LOCAL: Introducción práctica a kubernetes (nivel básico):
   - Carpeta: ***kubernetes-básico-local***
+- CODELAB: KUBERNETES NIVEL INTERMERDIO - LOCAL: Kubernetes nivel intermedio: configuración declarativa, secrets y volúmenes:
+  - Carpeta: ***kubernetes-intermedio***
