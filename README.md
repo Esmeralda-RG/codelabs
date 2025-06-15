@@ -13,3 +13,5 @@
   - [repository](https://github.com/Esmeralda-RG/cliente-service)
 - CODELAB: VIRTUAL THREADS: Virtual Threads en Spring Boot:
   - Carpeta: ***virtualthreads-demo***
+- CODELAB: KUBERNETES NIVEL BASICO - LOCAL: Introducción práctica a kubernetes (nivel básico):
+  - Carpeta: ***kubernetes-básico-local***
