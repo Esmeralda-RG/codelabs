@@ -1,4 +1,6 @@
 # Codelabs
+- CODELAB: APROVISIONAMIENTO DE INSTANCIAS DE COMPUTO: Aprovisionamiento de infraestructura en Amazon EC2 para desarrollo:
+  - Carpeta: ***aprovisionamiento***
 - CODELAB: SPRING BOOT I: Hola Mundo en Spring Boot:
   - Carpeta: ***hola-mundo***
 - CODELAB: SPRING BOOT II: Servicio REST en Spring Boot:
