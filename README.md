@@ -19,3 +19,5 @@
   - Carpeta: ***kubernetes-básico-local***
 - CODELAB: KUBERNETES NIVEL INTERMERDIO - LOCAL: Kubernetes nivel intermedio: configuración declarativa, secrets y volúmenes:
   - Carpeta: ***kubernetes-intermedio***
+- CODELAB: KUBERNETES NIVEL BASICO - GCP:
+  - Carpeta: ***kubernetes-gcp***
