@@ -13,6 +13,11 @@
 ![4.](./images/despliegue.jpg)
 
 ## 5. Pruebas
+## IP
+### 1. /hola/alvaro
+[34.120.126.89](http://34.120.126.89/api/pais-service/hola/alvaro)
+### 2. /pais-actuator/health
+[34.120.126.89](http://34.120.126.89/api/pais-service/pais-actuator/health)
 ## Error
 El comando `curl -I http://34.120.126.89/api/pais-service/pais-actuator/health` devuelve `401 Unauthorized` porque Spring Security protege el endpoint `/pais-actuator/health`. En `auth-service`, el pod está `0/1 READY` y el backend está `UNHEALTHY` debido a que el `readinessProbe` falla.
 
